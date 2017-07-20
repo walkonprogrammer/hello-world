@@ -1,2 +1,5 @@
 # hello-world
 my first repository
+# this is the editor
+I consider myself and curious autodidact who is learning how to program.
+# I wrote a brief description about myself
